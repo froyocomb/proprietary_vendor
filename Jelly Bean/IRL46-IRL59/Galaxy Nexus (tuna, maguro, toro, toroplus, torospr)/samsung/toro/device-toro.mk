@@ -12,11 +12,24 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/samsung/toro
-
 # Samsung blob(s) necessary for Toro hardware
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/proprietary/fRom:system/bin/fRom \
-    $(LOCAL_PATH)/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
-    $(LOCAL_PATH)/proprietary/libsec-ril.so:system/vendor/lib/libsec-ril.so \
+PRODUCT_PACKAGES := \
+    BIP \
+    IMSFramework \
+    RTN \
+    SDM \
+    SPG \
+    SyncMLSvc \
+    fRom \
+    libsecril-client \
+    libsyncml_core \
+    libsyncml_port \
+    lib_gsd4t \
+    libims \
+    libims_jni \
+    libsec-ril_lte \
+    libusc \
+    gps.omap4 \
+    sirfgps \
+    ducati-m3 \
 
