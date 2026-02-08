@@ -14,3 +14,5 @@ For example, the Android 4.0 build IRJ20-IRJ32 blobs for the Motorola Xoom would
     - moto
         - stingray
             - proprietary blobs
+         
+This structure may differ depending on what android version, device or build is chosen.
