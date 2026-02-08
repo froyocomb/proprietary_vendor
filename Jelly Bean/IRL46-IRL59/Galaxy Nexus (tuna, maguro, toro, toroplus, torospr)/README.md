@@ -1,0 +1,1 @@
+These vendor blobs are from Android 4.0.2 build ICL53F.
