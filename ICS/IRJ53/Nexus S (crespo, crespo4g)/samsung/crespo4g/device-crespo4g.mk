@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES := \
 PRODUCT_COPY_FILES += \
     vendor/samsung/crespo4g/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/crespo4g/proprietary/libWiMAXNativeODB.so:system/lib/libWiMAXNativeODB.so \
+    vendor/samsung/crespo4g/proprietary/cypress-touchkey.bin:system/vendor/firmware/cypress-touchkey.bin \
     vendor/samsung/crespo4g/proprietary/samsung_mfc_fw.bin:system/vendor/firmware/samsung_mfc_fw.bin \
     vendor/samsung/crespo4g/proprietary/wimaxfw.bin:system/vendor/firmware/wimaxfw.bin \
     vendor/samsung/crespo4g/proprietary/wimaxloader.bin:system/vendor/firmware/wimaxloader.bin \

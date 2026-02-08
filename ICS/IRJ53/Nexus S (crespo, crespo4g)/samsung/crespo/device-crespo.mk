@@ -19,5 +19,6 @@ PRODUCT_COPY_FILES := \
 # Samsung blobs necessary for crespo
 PRODUCT_COPY_FILES += \
     vendor/samsung/crespo/proprietary/libsecril-client.so:system/lib/libsecril-client.so \
+    vendor/samsung/crespo/proprietary/cypress-touchkey.bin:system/vendor/firmware/cypress-touchkey.bin \
     vendor/samsung/crespo/proprietary/samsung_mfc_fw.bin:system/vendor/firmware/samsung_mfc_fw.bin \
     vendor/samsung/crespo/proprietary/libsec-ril.so:system/vendor/lib/libsec-ril.so

@@ -1,1 +1,1 @@
-These vendor blobs are based on Android 2.3.7 build GWK74.
+These vendor blobs are from Android 2.3.7 build GWK74.
