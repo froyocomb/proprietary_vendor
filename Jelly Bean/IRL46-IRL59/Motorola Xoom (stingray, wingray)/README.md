@@ -1,1 +1,1 @@
-These vendor blobs are from Android 4.0.3 build IML74K.
+These vendor blobs are from Android 4.0.4 build IMM76L.
