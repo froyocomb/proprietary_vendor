@@ -15,4 +15,4 @@ For example, the Android 4.0 build IRJ20-IRJ32 blobs for the Motorola Xoom would
         - stingray
             - proprietary blobs
          
-This structure may differ depending on what android version, device or build is chosen. The scripts that copy these vendor blobs are not meant to be 100% accurate, with some using the style from Google's Device Binaries webpage, while some via the AOSP format. While the scripts may not be accurate, the blobs are matched in order to be closest (and most functional) to the build's tagged date.
+This structure may differ depending on what android version, device or build is chosen.
