@@ -17,3 +17,5 @@
 ifeq (\$(TARGET_DEVICE),crespo)
 
 LOCAL_PATH:=\$(call my-dir)
+
+endif

@@ -16,3 +16,5 @@
 
 ifeq (\$(TARGET_DEVICE),maguro)
 LOCAL_PATH:=\$(call my-dir)
+
+endif
