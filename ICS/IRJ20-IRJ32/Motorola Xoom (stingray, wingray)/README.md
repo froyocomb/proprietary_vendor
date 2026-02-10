@@ -1,1 +1,0 @@
-These vendor blobs are from Android 3.1 build HMJ37.

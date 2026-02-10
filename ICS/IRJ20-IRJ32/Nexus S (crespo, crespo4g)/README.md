@@ -1,1 +1,0 @@
-These vendor blobs are from Android 2.3.7 build GWK74.
