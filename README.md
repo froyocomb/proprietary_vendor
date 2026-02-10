@@ -4,7 +4,7 @@ This repository provides proprietary vendor blobs for AOSP devices. The files li
 order to make the compiling process easier.
 
 The structure of this repository is of the following:
-- Android version
+- Android version (select one via the branch)
      - Build(s)
          - Device(s)
       
@@ -15,4 +15,4 @@ For example, the Android 4.0 build IRJ20-IRJ32 blobs for the Motorola Xoom would
         - stingray
             - proprietary blobs
          
-This structure may differ depending on what android version, device or build is chosen.
+This structure may differ depending on what Android version, device or build is chosen.
