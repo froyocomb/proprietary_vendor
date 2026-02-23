@@ -17,8 +17,10 @@
 PRODUCT_COPY_FILES += \
     vendor/moto/stingray/proprietary/MotoImsServer.apk:system/app/MotoImsServer.apk \
     vendor/moto/stingray/proprietary/MotoLocationProxy.apk:system/app/MotoLocationProxy.apk \
+    vendor/moto/stingray/proprietary/MotoLocationProxy.odex:system/app/MotoLocationProxy.odex \
     vendor/moto/stingray/proprietary/MotoLteTelephony.apk:system/app/MotoLteTelephony.apk \
     vendor/moto/stingray/proprietary/MotoModemUtil.apk:system/app/MotoModemUtil.apk \
+    vendor/moto/stingray/proprietary/MotoModemUtil.odex:system/app/MotoModemUtil.odex \
     vendor/moto/stingray/proprietary/StingrayProgramMenu.apk:system/app/StingrayProgramMenu.apk \
     vendor/moto/stingray/proprietary/StingrayProgramMenuSystem.apk:system/app/StingrayProgramMenuSystem.apk \
     vendor/moto/stingray/proprietary/akmd2:system/bin/akmd2 \
