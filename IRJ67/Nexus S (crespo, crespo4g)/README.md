@@ -1,5 +1,3 @@
-These vendor blobs are from Android 2.3.7 build GWK74.
-
-The crespo4g blobs for this build also initially needed the .odex files for all of the APKs inside it, although unfortunately i was not able to get a hold of them. They were removed a few hours later anyway, so they are probably not that important.
+These vendor blobs are from Android 2.3.7 build GWK74, except for bcm4329.hcd, which is from Android 4.0.3 build IML74K (in order to get Wi-Fi working).
 
 Extract to a folder named "vendor" in the root of the build directory.
