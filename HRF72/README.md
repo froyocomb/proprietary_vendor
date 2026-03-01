@@ -1,0 +1,1 @@
+Do not use any blobs while compiling this build for the Motorola Xoom.
