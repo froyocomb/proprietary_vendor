@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/ti/panda/device-vendor-blobs.mk)
+$(call inherit-product, vendor/ti/panda/device-panda.mk)
