@@ -113,4 +113,5 @@ PRODUCT_PACKAGES += \
     MotoModemUtil \
     MotoSimUiHelper \
     StingrayProgramMenu \
-    StingrayProgramMenuSystem
+    StingrayProgramMenuSystem \
+    UsbHelper

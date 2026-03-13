@@ -101,4 +101,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     MotoLocationProxy \
     StingrayProgramMenu \
-    StingrayProgramMenuSystem
+    StingrayProgramMenuSystem \
+    UsbHelper
