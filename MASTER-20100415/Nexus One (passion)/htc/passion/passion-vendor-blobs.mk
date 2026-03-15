@@ -16,8 +16,7 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES := \
-    vendor/htc/passion/proprietary/libgps.so:obj/lib/libgps.so \
-    vendor/htc/passion/proprietary/libcamera.so:obj/lib/libcamera.so
+    vendor/htc/passion/proprietary/libgps.so:obj/lib/libgps.so
 
 # All the blobs necessary for passion
 PRODUCT_COPY_FILES += \
@@ -40,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/passion/proprietary/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/passion/proprietary/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/passion/proprietary/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
-    vendor/htc/passion/proprietary/libcamera.so:/system/lib/libcamera.so \
     vendor/htc/passion/proprietary/libgps.so:/system/lib/libgps.so \
     vendor/htc/passion/proprietary/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/passion/proprietary/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
